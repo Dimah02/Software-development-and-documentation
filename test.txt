@@ -1,0 +1,2 @@
+hello this is a test file
+and I am using vim command to write inside it.
