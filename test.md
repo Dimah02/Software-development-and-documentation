@@ -25,5 +25,5 @@ _**Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligu
 
 ![image absolute path](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUkEl8bcmEEFoU6icuDPdyDjM4GeXOV3hZP68muI5ZYg&s)
 
-![image relative path](mockup.PNG)
+![image relative path](img.jfif)
 
