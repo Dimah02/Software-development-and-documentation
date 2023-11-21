@@ -27,3 +27,28 @@ _**Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligu
 
 ![image relative path](img.jfif)
 
+
+# another class
+
+### code 
+```
+int x = 7;
+int y = 8;
+cout<< x+y <<endl;
+```
+
+### code again
+    string s = "hello you"
+    s = s.substr(0,5) + "me";
+    cout<<s<<endl;
+    
+---
+
+### tabel
+
+|name|age
+|----|---|
+|Dimah|21|
+|Jwana|20|
+
+
