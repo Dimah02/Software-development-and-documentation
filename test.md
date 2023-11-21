@@ -51,4 +51,7 @@ cout<< x+y <<endl;
 |Dimah|21|
 |Jwana|20|
 
+### inline code
+hello i am going to write code now  `bitset<64>b("111")`
+
 
