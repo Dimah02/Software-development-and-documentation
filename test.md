@@ -54,4 +54,13 @@ cout<< x+y <<endl;
 ### inline code
 hello i am going to write code now  `bitset<64>b("111")`
 
+### Blockquote
+> "quote"
+
+### Tasks list
+- [X] eat
+- [ ] sleep
+
+
+
 
